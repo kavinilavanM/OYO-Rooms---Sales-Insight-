@@ -30,10 +30,10 @@ Note: all 27 metrics and formulas are in excel file
 
 ### Dashboard Preview 
 
-! [Dashboard] (https://github.com/kavinilavanM/OYO-Rooms---Sales-Insight-/blob/main/Dashboard.png)
+![Dashboard](https://github.com/kavinilavanM/OYO-Rooms---Sales-Insight-/blob/main/Dashboard.png)
 
 ### Data Modelling
-![data model] (https://github.com/kavinilavanM/OYO-Rooms---Sales-Insight-/blob/main/Model.png)
+![data model](https://github.com/kavinilavanM/OYO-Rooms---Sales-Insight-/blob/main/Model.png)
 
 
 
